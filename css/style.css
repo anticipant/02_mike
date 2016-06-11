@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    width: 1600px;
+    padding: 0;
+}
+.main-header {
+    background: #1d1d1c url(../img/main-heder-bg.jpg) no-repeat;
+    width: 1170px;
+    padding: 0 215px;
+    min-height: 900px;
+}
